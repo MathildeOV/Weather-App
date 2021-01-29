@@ -23,12 +23,15 @@
   font-size: larger;
 }
 
-.currentLocation{
+.currentLocation {
   text-align: center;
 }
 
 .dDay img {
   width: 150px;
+}
+.footer {
+  text-align: center;
 }
 
 img {
