@@ -1,0 +1,42 @@
+.container {
+  background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+}
+
+.todaysDate,
+.todaysHour {
+  display: block;
+  text-align: right;
+}
+
+.dayWeek,
+.weekTemperature,
+.image .dDay,
+.row {
+  text-align: center;
+}
+
+.todaysDate {
+  margin: 0;
+}
+
+.currentTemperature {
+  font-size: larger;
+}
+
+.currentLocation{
+  text-align: center;
+}
+
+.dDay img {
+  width: 150px;
+}
+
+img {
+  width: 60px;
+}
+
+#celsius,
+#fahrenheit {
+  text-decoration: none;
+  color: black;
+}
